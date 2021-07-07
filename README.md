@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.youtube.com/channel/UCD_uHRFNcycLyFDtHSOgMOA"><img src="https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped.png"></a>
+    <a href="https://www.youtube.com/channel/UCD_uHRFNcycLyFDtHSOgMOA"><img src="https://github.com/LedMeExplain/LedMeExplain/raw/main/readme_src/portadaFb.png"></a>
     <br />
     <br />
     <a href="https://twitter.com/ledmeexplain"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40ledmeexplain" alt="Twitter"></a>
@@ -13,9 +13,11 @@
 <br/>
 <h2 align="center">Próximamente, tutoriales de Manim</h2>
 
-
+<a href="https://www.youtube.com/watch?v=LVQmDy7AWd0"><img src="https://github.com/LedMeExplain/LedMeExplain/raw/main/readme_src/ExpZ_1.gif"></a>
 
 ```python
+from manim import *
+
 LME_color = "#27a0b3"
 
 class ExpZ_1(Scene):
